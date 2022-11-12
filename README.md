@@ -24,16 +24,16 @@
 <!-- Working ✅ Work in progress ⚠️ ~~Deprecate~~ ⛔️ -->
 **Project Status:** Work in progress ⚠️ <a href="#maintenance">⇩</a>
 <br/>
-**Percentage Completely:** 40% 🔋 <a href="#roadmap">⇩</a>
+**Percentage Completely:** 70% 🔋 <a href="#roadmap">⇩</a>
 <br/>
 <br/>
 
 <p align="center">
-  <img src="https://findicons.com/files/icons/2779/simple_icons/512/apple_512_black.png" width="100" height="100">
+  <img src="https://www.freepnglogos.com/uploads/twitch-tv-user-logos-4.png" width="200" height="150">
 </p>
 
 <h1 align="center">
-    <a href="https://github.com/Piero24/Template-README">PROJECT TITLE</a>
+    <a href="https://github.com/Piero24/Template-README">Twitch-Stream-Viewer</a>
 </h1>
 
 <!--
@@ -42,16 +42,10 @@
 </p>
 -->
 
-> *<p align="center">This file contains an example in Italian on how to write a readme.md file for **Github!** <br/> It is a good idea to use the Markdown format syntax correctly to highlight the commands to be launched or particular blocks of code, for more for information see how to create and underline code blocks.*
 <p align="center">
     An awesome README template to jumpstart your projects!
     <br/>
     <a href="#documentation"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    🇮🇹  
-    <a href="https://github.com/Piero24/Template-README/blob/main/README.md"><strong>Italian</strong></a> 
-    version
     <br/>
     <br/>
     <a href="https://github.com/Piero24/Template-README">View Demo</a>
@@ -362,69 +356,6 @@ See the [open issues](https://github.com/Piero24/Template-README/issues) for a f
    • 
   <a href="#license"><strong>License</strong></a>
 </p>
-
-
-
- <!-- https://www.contributor-covenant.org/ -->
-
-<h3 id="code-of-conduct" align="center"><br/><br/>📜  Code of conduct  📜</h3>
-
-<p align="center">
-  As members, collaborators and leaders we are committed to performance participation in our community a harassment-free experience for all, regardless of age, size, visible or invisible disability, ethnicity, sexual characteristics, gender identity and expression, level of experience, education, socioeconomic status, nationality, appearance, race, caste, color, religion or identity and sexual orientation.
-  <br/>
-  We are committed to acting and interacting in ways that help create an open community, welcoming, diverse, inclusive and healthy.
-  <br/>
-  <br/>
-  The complete version of the code of conduct can be viewed at the following link:
-  <br/>
-  <a href="https://github.com/Piero24/Template-README/blob/main/CODE-OF-CONDUCT.md"><strong>Code of Conduct »</strong></a>
-</p>
-
-
-
-<!--
-***Template `ISSUE-TEMPLATE.md`
-***https://github.com/stevemao/github-issue-templates
--->
-
-<h2 id="report-a-bug"  align="center"><br/><br/>🐛  Bug and Feature 🐛</h2>
-
-<p align="center">
-  To <strong>report a bug</strong> or to request 
-  <br/>
-  the implementation of <strong>new features</strong>,
-  <br/>
-  it is strongly recommended to use the 
-  <br/>
-  <a href="https://github.com/Piero24/Template-README/issues"><strong>ISSUES tool from Github »</strong></a>
-  <br/>
-  <br/>
-  Here you may already find the answer to the problem you have encountered,
-  <br/>
-  in case it has already happened to other people.
-  <br/>
-  Otherwise you can report the bugs found.
-  <br/>
-  <br/>
-  <strong>!! ATTENTION !! </strong>
-  <br/>
-  </strong>To speed up the resolution of problems, </strong>
-  <br/>
-  <strong> it is recommended to answer all the questions </strong>
-  <br/>
-  <strong>present in the request phase in an exhaustive manner.</strong>
-  <br/>
-  <br/>
-  (Even in the phase of requests for the implementation of new functions, 
-  <br/>
-  we ask you to better specify the reasons for the request 
-  <br/>
-  and what final result you want to obtain).
-  <br/>
-  <br/>
-</p>
-
-
   
 <h2 id="maintenance" align="center"><br/><br/>🔧  Maintenance  🔧</h2>
 
@@ -585,45 +516,6 @@ See the [open issues](https://github.com/Piero24/Template-README/issues) for a f
 </p>
 
 <p align="right"><a href="#top">⇧</a></p>
-
-
-<!--
- ***This operation could be particularly long or laborious to report and therefore it is possible to avail
- *** of some automatic support tools.
- ***https://fossa.com/pricing/
--->
-
-<h2 id="third-party-licenses" align="center"><br/>📌  Third Party Licenses  📌</h2>
-
-<p align="center">
-  In the event that the software uses third-party components for its operation, 
-  <br/>
-  the individual licenses are indicated in the following section.
-  <br/>
-  <br/>
-  <strong>Software list:</strong>
-  <br/>
-  <table align="center">
-  <tr  align="center">
-    <th>Software</th>
-    <th>License owner</th> 
-    <th>License type</th> 
-    <th>Link</th>
-    <th>Note</th>
-  </tr>
-  <tr  align="center">
-    <td>None</td>
-    <td></td> 
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-</p>
-
-<p align="right"><a href="#top">⇧</a></p>
-
-
 
 ---
 <br/>
