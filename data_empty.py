@@ -11,7 +11,9 @@
 # Github <https://github.com/Piero24>
 
 # Driver Path
+chrome_arg = "user-data-dir=YOUR-CHROME-PROFILE-PATH"
 PATH_chrome = r"YOUR-CHROME-DRIVER-PATH/chromedriver"
+firefox_arg = "YOUR-FIREFOX-DRIVER-PATH/FILE-NAME.default-release"
 PATH_firefox = r"YOUR-GECKO-DRIVER-PATH/geckodriver"
 
 # Google e-mail and Twitch e-mail

@@ -46,13 +46,13 @@ def start_twitch_viewer(streamer_link) -> list:
             
             brw_options = webdriver.FirefoxOptions()
             brw_options.add_argument("-profile")
-            brw_options.add_argument("/Users/pietrobon/Library/Application Support/Firefox/Profiles/bmlq2wpm.default-release")
+            brw_options.add_argument(data.firefox_arg)
             driver = webdriver.Firefox(executable_path=data.PATH_firefox, options=brw_options)
 
         elif data.chousen_browser == 'Chrome':
 
             brw_options = webdriver.ChromeOptions()
-            brw_options.add_argument("user-data-dir=/Users/pietrobon/Library/Application Support/Google/Chrome")
+            brw_options.add_argument(data.chrome_arg)
             brw_options.add_argument("profile-directory=Profile 3")
             brw_options.add_experimental_option("detach", True)
             driver = webdriver.Chrome(executable_path=data.PATH_chrome, options=brw_options)

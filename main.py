@@ -17,7 +17,6 @@ import twitch_commands as t_cmd
 
 def main():
 
-    time.sleep(900)
     data.stream_Status = t_cmd.check_Stream_Status()
     #print(data.stream_Status)
 
@@ -37,7 +36,8 @@ def main():
     # and you want messages during the stream
     elif data.stream_Status == 'online' and data.stream_already_started == 1 and data.mid_time_msg == 1:
         t_cmd.send_chat_message(data.driver, data.msg_txt_list)
-
+    
+    time.sleep(900)
 
 if __name__ == "__main__":
     while 1: main()
