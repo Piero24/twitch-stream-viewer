@@ -1,26 +1,5 @@
 <div id="top"></div>
 
-<!-- BADGE -->
-[![](https://img.shields.io/github/release-date/piero24/Template-README)]()
-[![](https://img.shields.io/github/last-commit/piero24/Template-README)]()
-[![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/Piero24/Template-README)
-<!--[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/Piero24/Template-README) -->
-[![](https://img.shields.io/github/issues/piero24/Template-README)]()
-[![](https://img.shields.io/github/issues-pr/piero24/Template-README)]()
-[![](https://img.shields.io/github/downloads/piero24/Template-README/total)]()
-
-[![](https://img.shields.io/github/license/piero24/Template-README)]()
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
-
-
-<!--
-*** You can make other badges here
-*** [shields.io](https://shields.io/)
-*** or here
-*** [CircleCI](https://circleci.com/)
--->
-<br/>
-
 <!-- Working ✅ Work in progress ⚠️ ~~Deprecate~~ ⛔️ -->
 **Project Status:** Work in progress ⚠️
 <br/>
@@ -35,17 +14,34 @@
 <h1 align="center">
     <a href="https://github.com/Piero24/twitch-stream-viewer">Twitch-Stream-Viewer</a>
 </h1>
-
 <p align="center">
-    Script to automatically start the browser when your favorite streamer is online
-    <br/>
-    <a href="#documentation"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/Piero24/twitch-stream-viewer/issues">Report Bug</a>
-    •
-    <a href="https://github.com/Piero24/twitch-stream-viewer/issues">Request Feature</a>
-  </p>
+	<!-- BADGE -->
+  <a href="https://github.com/Piero24/twitch-stream-viewer/commits/master">
+    <img src="https://img.shields.io/github/last-commit/piero24/twitch-stream-viewer">
+  </a>
+  <a href="https://github.com/Piero24/twitch-stream-viewer">
+    <img src="https://img.shields.io/badge/Maintained-yes-green.svg">
+  </a>
+  <!--<a href="https://github.com/Piero24/twitch-stream-viewer">
+    <img src="https://img.shields.io/badge/Maintained%3F-no-red.svg">
+  </a> -->
+  <a href="https://github.com/Piero24/twitch-stream-viewer/issues">
+    <img src="https://img.shields.io/github/issues/piero24/twitch-stream-viewer">
+  </a>
+  <a href="https://github.com/Piero24/twitch-stream-viewer/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/piero24/twitch-stream-viewer">
+  </a>
+</p>
+<p align="center">
+  Script to automatically start the browser when your favorite streamer is online
+  <br/>
+  <a href="#documentation"><strong>Explore the docs »</strong></a>
+  <br/>
+  <br/>
+  <a href="https://github.com/Piero24/twitch-stream-viewer/issues">Report Bug</a>
+   •
+  <a href="https://github.com/Piero24/twitch-stream-viewer/issues">Request Feature</a>
+</p>
 
 
 ---
