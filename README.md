@@ -33,26 +33,18 @@
 </p>
 
 <h1 align="center">
-    <a href="https://github.com/Piero24/Template-README">Twitch-Stream-Viewer</a>
+    <a href="https://github.com/Piero24/twitch-stream-viewer">Twitch-Stream-Viewer</a>
 </h1>
 
-<!--
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
-</p>
--->
-
-<p align="center">
-    An awesome README template to jumpstart your projects!
+    Script to automatically start the browser when your favorite streamer is online
     <br/>
     <a href="#documentation"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/Piero24/Template-README">View Demo</a>
+    <a href="https://github.com/Piero24/twitch-stream-viewer/issues">Report Bug</a>
     •
-    <a href="https://github.com/Piero24/Template-README/issues">Report Bug</a>
-    •
-    <a href="https://github.com/Piero24/Template-README/issues">Request Feature</a>
+    <a href="https://github.com/Piero24/twitch-stream-viewer/issues">Request Feature</a>
   </p>
 
 
@@ -63,7 +55,7 @@
 <h2 id="itroduction" align="center"><br/><br/><br/>📔  Itroduction  📔</h2>
           
 <p align="center">
-  This section contains a series of information on how to use the code such as the prerequisites, the dev tools to use etc.
+  This short python script allows you to automatically start the browser (for the moment it is only available with firefox) to see your favorite streamer. In case you are a streamer you can use it to verify that everything is going correctly in your stream.
   <br/>
   <br/>
   <br/>
@@ -74,31 +66,9 @@
 
 
 
-<h2 id="made-in" align="center"><br/>🛠  Built in  🛠</h2>
-  
-<p align="center">
-  This section should list all the major frameworks / libraries used to start your project.
-  <br/>
-  Leave any add-ons / plug-ins for the thanks section.
-  <br/>
-  <br/>
-  <a href="https://github.com/Piero24/Template-README">Programming Language 1</a>
-  •
-  <a href="https://github.com/Piero24/Template-README/issues">Programming Language 2</a>
-  •
-  <a href="https://github.com/Piero24/Template-README/issues">Programming Language 3</a>
-</p>
-
-<p align="right"><a href="#top">⇧</a></p>
-
-
-
 <h2 id="index" align="center"><br/>📋  Index  📋</h2>
 
 <p align="center">
-  <h4 align="center">
-    <a href="#documentation">Documentation</a>
-  </h4>
   <h4 align="center">
     <a href="#prerequisites">Prerequisites</a>
   </h4>
@@ -129,23 +99,6 @@
   <h4 align="center">
     <a href="#third-party-licenses">Third Party Licenses</a>
   </h4>
-</p>
-
-<p align="right"><a href="#top">⇧</a></p>
-
-
-
-<h2 id="documentation" align="center"><br/><br/>📚  Documentation  📚</h2>
-
-<p align="center">
-  Including pieces of documentation will allow you to better understand what the program does.
-  <br/>
-  At this point it is best to write only short portions.
-  <br/>
-  <br/>
-  For a broader view it is better to refer the user to the documentation via links.
-  <br/>
-  <a href="https://shields.io/">Documentation »</a>
 </p>
 
 <p align="right"><a href="#top">⇧</a></p>
@@ -239,38 +192,6 @@
   ```
 </p>
 
-<h3 id="linux" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1012px-Tux.svg.png" width="15" height="15">
-  Linux
-</h3>
-<br/>
-
-<p align="center">1. 
-  Get a free API Key  
-  <a href="https://example.com">here</a>
-</p>
-<p align="center">
-  2. Clone the repo
-  
-  ```sh
-  git clone https://github.com/your_username_/Project-Name.git
-  ```
-</p>
-<p align="center">
-  3. Install NPM packages
-  
-  ```sh
-  npm install
-  ```
-</p>
-<p align="center">
-  4. Enter your API in `config.js`
-  
-  ```js
-  const API_KEY = 'ENTER YOUR API';
-  ```
-</p>
-
 <p align="right"><a href="#top">⇧</a></p>
 
 
@@ -291,118 +212,6 @@
 
 
 ---
-  
-
-
-<h2 id="roadmap" align="center"><br/><br/>🛫  Roadmap  🛬</h2>
-
-- [x] Upload code
-- [x] README file
-- [x] Multi-language README
-    - [x] Inglese
-    - [x] Italaino
-- [x] Point 1
-- [ ] Point 2
-- [ ] Point 3
-
-See the [open issues](https://github.com/Piero24/Template-README/issues) for a full list of proposed features (and known issues).
-
-<p align="right"><a href="#top">⇧</a></p>
-
-
-
-<h2 id="community" align="center"><br/><br/>🌍  Community  🌍</h2>
-
-<p align="center">
-  There are 3 groups concerning this project.
-  <br/>
-  <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="20" height="20" align="center">
-  <a href="https://telegram.org"><strong>Telegram Channel</strong></a>
-  <br/>
-  <br/>
-  <img src="https://a.slack-edge.com/80588/marketing/img/meta/slack_hash_256.png" width="20" height="20" align="center">
-  <a href="https://slack.com"><strong>Slack Channel</strong></a>
-  <br/>
-  <br/>
-  <img src="https://www.svgrepo.com/show/331368/discord-v2.svg" width="20" height="20" align="center">
-  <a href="https://discord.com"><strong>Discord Channel</strong></a>
-  <br/>
-  <br/>
-  In these groups it is possible to discuss everything related to the project and have support for any problems in its use.
-  <br/>
-  For the problems we inform you that you have to open a case here before talking about it in the channels.
-  <br/>
-  <br/>
-</p>
-  
-<p align="right"><a href="#top">⇧</a></p>
-
-
-
-<h2 id="responsible-disclosure" align="center"><br/><br/>📮  Responsible Disclosure  📮</h2>
-
-<p align="center">
-  We assume no responsibility for an improper use of this code and everything related to it.
-  <br/>
-  We do not assume any responsibility for damage caused to people and / or objects in the use of the code.
-  <br/>
-  <strong>By using this code even in a small part, the developers are declined from any responsibility.</strong>
-  <br/>
-  <br/>
-  It is possible to have more information by viewing the following links:
-  <br/>
-  <a href="#code-of-conduct"><strong>Code of conduct</strong></a>
-   • 
-  <a href="#license"><strong>License</strong></a>
-</p>
-  
-<h2 id="maintenance" align="center"><br/><br/>🔧  Maintenance  🔧</h2>
-
-<p align="center">
-  There are currently no parts of the code under maintenance.
-  <br/>
-  You can quickly check the 
-  <a href="#top">status of the project</a>
-   at the top of the page.
-  <br/>
-  <br/>
-  This section details which parts of the code are under 
-  <br/>
-  maintenance and for what reason.
-  
-</p>
-
- <br/>
-
-<h3 id="changelog" align="center"><br/>📟  Changelog  📟</h3>
-
-<p align="center">
-  Here you can find all the information regarding the fixes 
-  <br/>
-  and implementations that took place in the various program reviews.
-  <br/>
-  <br/>
-  <a href="https://github.com/Piero24/Template-README/blob/main/CHANGELOG.md"><strong>Explore the changelog docs</strong></a>
-  <br/>
-</p>
-
-<p align="right"><a href="#top">⇧</a></p>
-  
-  
-  
- --- 
- 
- 
- 
- <!--
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="390" height="292">
-</p>
- 
--->
- 
- 
  
  <h2 id="license" align="center"><br/><br/><br/>🔍  License  🔍</h2>
 
@@ -427,11 +236,6 @@ See the [open issues](https://github.com/Piero24/Template-README/issues) for a f
 
 <br/>
 
-<!--
-*** To choose the licenses you can look at the following links.
-*** https://choosealicense.com/
-*** https://github.com/teamdigitale/licenses
--->
 
 <h3 id="general-license" align="center"><br/>🖋  General License  🖋</h3>
 
@@ -461,12 +265,6 @@ See the [open issues](https://github.com/Piero24/Template-README/issues) for a f
 
 <br/>
 
-<!--
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="390" height="292">
-</p>
- 
--->
 
 <h3 id="authors-and-copyright" align="center"><br/>✏️  Authors and Copyright  ✏️</h3>
 
