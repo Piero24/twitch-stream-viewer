@@ -59,7 +59,7 @@
   <br/>
   <br/>
   <br/>
-  <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png">
+  <img src="https://vanschneider.com/blog/content/images/wp-content/uploads/2019/09/02a_Ultimate_Logo.gif">
   <br/>
   <br/>
 </p>
