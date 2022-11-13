@@ -66,53 +66,23 @@
 
 
 
-<h2 id="index" align="center"><br/>📋  Index  📋</h2>
-
-<p align="center">
-  <h4 align="center">
-    <a href="#prerequisites">Prerequisites</a>
-  </h4>
-  <h4 align="center">
-    <a href="#how-to-start">How to Start</a>
-  </h4>
-  <h4 align="center">
-    <a href="#structure-of-the-project">Structure of the Project</a>
-  </h4>
-  <h4 align="center">
-    <a href="#roadmap">Roadmap</a>
-  </h4>
-  <h4 align="center">
-    <a href="#community">Community</a>
-  </h4>
-  <h4 align="center">
-    <a href="#responsible-disclosure">Responsible Disclosure</a>
-  </h4>
-  <h4 align="center">
-    <a href="#report-a-bug">Report a Bug</a>
-  </h4>
-  <h4 align="center">
-    <a href="#maintenance">Maintenance</a>
-  </h4>
-  <h4 align="center">
-    <a href="#license">License</a>
-  </h4>
-  <h4 align="center">
-    <a href="#third-party-licenses">Third Party Licenses</a>
-  </h4>
-</p>
-
-<p align="right"><a href="#top">⇧</a></p>
-
-
-
 <h2 id="prerequisites" align="center"><br/>🧰  Prerequisites  🧰</h2>
 
 <p align="center">
-  This is an example of how to list the things needed to use the software and how to install them.
-  
-  ```
-  Pre-requisites section
-  ```
+  <br/>
+  There are some prerequisites needed to be able to use this script.
+  <p align="center">
+  1) Have <a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a> installed as a browser
+  </p>
+  <p align="center">
+  2) You have logged in with your browser account (if you don't have one you have to create it)
+  </p>
+  <p align="center">
+  3) Be registered on the <a href="https://dev.twitch.tv">Twitch developer</a> portal (have your twitch ID and your twitch KEY)
+  </p>
+  <p align="center">
+  4) Downloaded the <a href="https://github.com/mozilla/geckodriver/releases">Selenium drivers</a> for Firefox
+  </p>
 </p>
   
 <p align="right"><a href="#top">⇧</a></p>
