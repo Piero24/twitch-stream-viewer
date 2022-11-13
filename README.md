@@ -92,33 +92,74 @@
 <h2 id="how-to-start" align="center"><br/>⚙️  How to Start  ⚙️</h2>
 
 <p align="center"> 
-  <i>Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external 
-  dependencies or services.</i>
+  1. Install what you need to make everything work
+
+  ```sh
+  pip install requests
+  pip install selenium
+  ```
 </p>
 <br/>
-<p align="center">1. 
-  Get a free API Key  
-  <a href="https://example.com">here</a>
+<p align="center">
+  2. Rename <b>data_empty.py</b> to <b>data.py</b>
+</p>
+<br/>
+<p align="center">
+  3. Login to twitch with you credential (The code should work even without this step but it is highly recommended to do so as it may not work if twitch requests the verification code by mail at login)
+</p>
+<br/>
+<p align="center">
+  4. In the data.py file, enter the path to the folder where the account profile used to log in to firefox is.
+  <br/><br/>
+  In my case (on mac) it looks like this:
+
+  ```python
+  firefox_arg = "/Users/username/Library/Application Support/Firefox/Profiles/axglk2qpm.default-release"
+  ```
+  <p align="center">Now enter the path of the selenium driver</p>
+
+  ```python
+  PATH_firefox = r"/Users/username/Documents/twitch-stream-viewer/geckodriver"
+  ```
+
 </p>
 <p align="center">
-  2. Clone the repo
+  5. Complete the following fields with the required data
   
-  ```sh
-  git clone https://github.com/your_username_/Project-Name.git
+  ```python
+  # Google e-mail and Twitch e-mail
+  email = 'YOUR-TWITCH-MAIL'
+  # Twitch Username
+  usr = 'YOUR-TWITCH-USERNAME'
+  # Twitch Password
+  pswd = 'YOUR-TWITCH-PASSWORD'
+
+  # Twitch developer data
+  twitch_ID = 'YOUR-TWITCH-DEVELOPER-ID'
+  twitch_KEY = 'YOUR-TWITCH-DEVELOPER-KEY'
+
+  # Streamer name and link
+  streamer_name = 'STREAMER-NAME'
   ```
 </p>
+<br/><br/>
 <p align="center">
-  3. Install NPM packages
+  Now everything is ready. To start it in the terminal, go to the folder containing the script and write
   
-  ```sh
-  npm install
+  ```ssh
+  python3 main.py
   ```
 </p>
+
+<br/><br/>
 <p align="center">
-  4. Enter your API in `config.js`
+  <b>Tips:</b>
+  The bot sends messages as soon as it connects to greet the stream and at regular intervals during the stream to show that it is still there. If you want to change the phrases just change them in the data.py file.
   
-  ```js
-  const API_KEY = 'ENTER YOUR API';
+  If you want to remove the messages during the stream and have only those at the beginning, just set the following in the data.py file.
+  
+  ```python
+  mid_time_msg = 0
   ```
 </p>
 
