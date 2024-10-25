@@ -48,7 +48,7 @@
 
 
 
-<h2 id="itroduction" align="center"><br/><br/><br/>📔  Itroduction  📔</h2>
+<h2 id="introduction" align="center"><br/><br/><br/>📔  Introduction  📔</h2>
           
 <p align="center">
   This short python script allows you to automatically start the browser (for the moment it is only available with firefox) to see your favorite streamer. In case you are a streamer you can use it to verify that everything is going correctly in your stream.
